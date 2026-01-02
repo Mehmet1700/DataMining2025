@@ -33,6 +33,9 @@ The analysis is divided into deliverables:
 - **04_Clustering_merged_perspectives.ipynb**: Integration of different segmentation perspectives.
 - **05_Clustering_Visualization.ipynb**: Visualizations of the final clusters.
 
+
+The Final submissions and their notebooks are inside submission1 and submission2 folders
+
 ## Installation & Requirements
 
 This project requires Python 3.x and the following libraries:
